@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MotherOfPigs1
+- 👋 Hi, I’m @MotherOfPigs1 (this is my gaming nickname, by the way)
 - 👀 I’m interested in movies, music, books and coding
 - 🌱 I’m currently learning Python but it's a course to work as a Full Stacker
 - 💞️ I’m looking to collaborate on any projects you think I can help you with!
