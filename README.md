@@ -2,7 +2,7 @@
 - 👀 I’m interested in movies, music, books and coding
 - 🌱 I’m currently learning Python but it's a course to work as a Full Stacker
 - 💞️ I’m looking to collaborate on any projects you think I can help you with!
-- 📫 How to reach me: malumiguel0695@gmail.com (make sure to add your name and project name on the subject of the email and how you found me on the body :) )
+- 📫 How to reach me: malumiguel0695@gmail.com (make sure to add your name and project name on the subject of the email and how you found me on the body :) ) or [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' height='30'>](https://www.linkedin.com/in/maria-luisa-miguel/)
 
 - 🖥️ Some of my beloved freelance projects:
   - https://www.thedirtypub.com/ (Special thanks to Gabriel Schmidt for allowing me to create and develop this landing page with freedom and autonomy and for believing I     could do it ♥️)
@@ -19,10 +19,3 @@
    ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
    ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-   
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MotherOfPigs1)](https://github.com/anuraghazra/github-readme-stats)
-
-<!---
-MotherOfPigs1/MotherOfPigs1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
