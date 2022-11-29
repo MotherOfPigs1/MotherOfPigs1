@@ -7,7 +7,7 @@
 - 🖥️ Some of my beloved freelance projects:
   - https://www.thedirtypub.com/ (Special thanks to Gabriel Schmidt for allowing me to create and develop this landing page with freedom and autonomy and for believing I     could do it ♥️)
   
- - Technologies I work with:
+ - Technologies I work with:<br>
    ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
    ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
    ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
