@@ -19,6 +19,8 @@
    ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
    ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+   
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MotherOfPigs1)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 MotherOfPigs1/MotherOfPigs1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
